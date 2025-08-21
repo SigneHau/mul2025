@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    background-color: rgb(136, 106, 106);
+    align-content:space-around;
+    padding: 20px;
+}
+
+.box{
+    
+    height: 150px;
+    width: 150px;
+    color: rgb(53, 54, 54);
+    text-align: center;
+    padding: 40px;
+    background-color: pink;
+    margin:40px 40px;
+    align-content: center;
+}
